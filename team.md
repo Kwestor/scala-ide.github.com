@@ -9,6 +9,10 @@ The Scala IDE for Eclipse could not be where it is today without the continued s
 
 {% include current-team.txt %}
 
+## Previous contributors
+
+{% include former-contributors.txt %}
+
 Former contributors also deserve credit. Thanks to Miles Sabin (former Project Leader), David Bernard, Matthew Farwell, Donna Malayeri, Joshua Suereth, Eugene Vigdorchik, and all other contributors.
 
 ## Sponsors

@@ -1,6 +1,6 @@
 <div class="row">
   <div class="span5">
-    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/martin.jpg" align="left"></div>
+    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/avatars/martin-odersky.jpg" align="left"></div>
     <h4>Martin Odersky</h4>
     <div><a href="https://github.com/odersky">@odersky</a></div>
     <div><a href="http://www.typesafe.com">Typesafe</a></div>

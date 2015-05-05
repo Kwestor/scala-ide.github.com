@@ -1,6 +1,6 @@
 <div class="row">
   <div class="span5">
-    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/iuli.png" align="left"></div>
+    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/avatars/iulian-dragos.png" align="left"></div>
     <h4>Iulian Dragos</h4>
     <div>(Project Leader), <a href="https://github.com/dragos">@dragos</a></div>
     <div><a href="http://www.typesafe.com">Typesafe</a></div>
@@ -34,7 +34,7 @@
     <div><a href="http://ifs.hsr.ch">Institute for Software</a></div>
   </div>
   <div class="span5">
-    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/wieslaw-popielarski.jpg" align="left"></div>
+    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/avatars/wieslaw-popielarski.jpg" align="left"></div>
     <h4>Wiesław Popielarski</h4>
     <div><a href="https://github.com/wpopielarski">@wpopielarski</a></div>
     <div><a href="http://virtuslab.com">VirtusLab</a></div>

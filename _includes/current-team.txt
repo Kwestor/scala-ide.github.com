@@ -33,4 +33,10 @@
     <div><a href="https://github.com/misto">@misto</a></div>
     <div><a href="http://ifs.hsr.ch">Institute for Software</a></div>
   </div>
+  <div class="span5">
+    <div class="frame"><img src ="{{ site.baseurl }}/resources/images/wieslaw-popielarski.jpg" align="left"></div>
+    <h4>Wiesław Popielarski</h4>
+    <div><a href="https://github.com/wpopielarski">@wpopielarski</a></div>
+    <div><a href="http://virtuslab.com">VirtusLab</a></div>
+  </div>
 </div>
